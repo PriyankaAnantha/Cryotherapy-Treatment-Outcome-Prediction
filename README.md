@@ -68,6 +68,8 @@ This project aims to develop a machine learning model to predict the success of 
 Project_Files/
 │── ML_CourseProject_FinalReport.pdf
 │── MLProjectReport_P1_PriyankaA.pdf
+│── MLProject_P1_PriyankaA.ipynb
+│── MLProject_Final_PriyankaA.ipynb
 │── README.md  # Project documentation
 ```
 
@@ -78,5 +80,5 @@ Project_Files/
 4. Compare results before and after hyperparameter tuning.
 
 ## Author
-Priyanka A  
+**Priyanka A**
 
